@@ -1,0 +1,2 @@
+# 2024GenAIHackathon
+20240518GenAIHackathon-趨勢科技組
